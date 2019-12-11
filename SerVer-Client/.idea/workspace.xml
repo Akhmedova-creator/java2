@@ -1,0 +1,932 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b58482f2-54fb-4424-8b0c-c6d9db5c9e2d" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Lesson_7/client/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="17" column="8" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="8" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Lesson_7/server/AuthService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="884">
+              <caret line="52" selection-start-line="52" selection-end-line="52" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Lesson_7/client/Controller.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Lesson_7/client/sample.fxml">
+          <provider editor-type-id="JavaFX-Scene-Builder" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="43" selection-start-line="7" selection-start-column="43" selection-end-line="7" selection-end-column="43" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Lesson_7/server/MainServ.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="867">
+              <caret line="55" column="34" selection-start-line="55" selection-start-column="34" selection-end-line="55" selection-end-column="34" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Lesson_7/server/ClientHandler.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="782">
+              <caret line="51" column="19" selection-start-line="51" selection-start-column="19" selection-end-line="51" selection-end-column="19" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk-9.0.4/lib/src.zip!/java.base/java/lang/String.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="24055">
+              <caret line="1479" column="19" selection-start-line="1479" selection-start-column="19" selection-end-line="1479" selection-end-column="19" />
+              <folding>
+                <element signature="e#58811#58812#0" expanded="true" />
+                <element signature="e#58855#58856#0" expanded="true" />
+                <element signature="e#94323#94324#0" expanded="true" />
+                <element signature="e#94361#94362#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Lesson_7/server/ServerStart.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+              <folding>
+                <element signature="e#96#97#0" expanded="true" />
+                <element signature="e#126#127#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>passwordField</find>
+      <find>sub</find>
+      <find>clients</find>
+    </findStrings>
+    <dirStrings>
+      <dir>C:\Users\user\13112019\src\Lesson_5</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/Lesson_1/Marathon/Competitor.java" />
+        <option value="$PROJECT_DIR$/src/Lesson_1/Marathon/Obstacle.java" />
+        <option value="$PROJECT_DIR$/src/Lesson_1/Marathon/Wall.java" />
+        <option value="$PROJECT_DIR$/src/Lesson_1/Marathon/Water.java" />
+        <option value="$PROJECT_DIR$/src/Lesson_1/Marathon/Cross.java" />
+        <option value="$PROJECT_DIR$/src/Lesson_1/Box.java" />
+        <option value="$PROJECT_DIR$/src/Lesson_1/Animal.java" />
+        <option value="$PROJECT_DIR$/src/Lesson_1/Marathon/TEam.java" />
+        <option value="$PROJECT_DIR$/src/Lesson_1/Marathon/Course.java" />
+        <option value="$PROJECT_DIR$/src/Lesson_1/Marathon/Team.java" />
+        <option value="$PROJECT_DIR$/src/Lesson_1/Marathon/Competitor/Animal.java" />
+        <option value="$PROJECT_DIR$/src/Lesson_1/Marathon/Competitor/Competitor.java" />
+        <option value="$PROJECT_DIR$/src/Lesson_1/Marathon/Competitor/Human.java" />
+        <option value="$PROJECT_DIR$/src/Lesson_1/Marathon/Obstacle/Water.java" />
+        <option value="$PROJECT_DIR$/src/Lesson_1/Marathon/Competitor/Cat.java" />
+        <option value="$PROJECT_DIR$/src/Lesson_1/Marathon/Competitor/Dog.java" />
+        <option value="$PROJECT_DIR$/src/Lesson_1/Marathon/Obstacle/Team.java" />
+        <option value="$PROJECT_DIR$/src/Lesson_1/Marathon/Competitor/Team.java" />
+        <option value="$PROJECT_DIR$/src/Lesson_1/Marathon/Main.java" />
+        <option value="$PROJECT_DIR$/src/Lesson_1/Test.java" />
+        <option value="$PROJECT_DIR$/src/Lesson_2/Fruit.java" />
+        <option value="$PROJECT_DIR$/src/Lesson_2/Outer.java" />
+        <option value="$PROJECT_DIR$/src/Lesson_2/MainEx.java" />
+        <option value="$PROJECT_DIR$/src/Lesson_2/FactorialException.java" />
+        <option value="$PROJECT_DIR$/src/Lesson_2/DZ/MainClassEnum.java" />
+        <option value="$PROJECT_DIR$/src/Lesson_2/Test.java" />
+        <option value="$PROJECT_DIR$/src/Lesson_2/DZ/MainClass.java" />
+        <option value="$PROJECT_DIR$/src/Lesson_3/MainColl.java" />
+        <option value="$PROJECT_DIR$/src/Lesson_3/MyCompUserDefine.java" />
+        <option value="$PROJECT_DIR$/src/Lesson_3/DZ/MainClass.java" />
+        <option value="$PROJECT_DIR$/src/Lesson_4/MainWindow.java" />
+        <option value="$PROJECT_DIR$/src/Lesson_4/MainRex.java" />
+        <option value="$PROJECT_DIR$/src/Lesson_4/DZ/PasswordVar.java" />
+        <option value="$PROJECT_DIR$/src/Lesson_4/DZ/Password.java" />
+        <option value="$PROJECT_DIR$/src/Lesson_5/MainClassThread.java" />
+        <option value="$PROJECT_DIR$/src/Lesson_5/Box.java" />
+        <option value="$PROJECT_DIR$/src/Lesson_5/ATM.java" />
+        <option value="$PROJECT_DIR$/src/Lesson_5/DeamoThread.java" />
+        <option value="$PROJECT_DIR$/src/Lesson_5/Counter.java" />
+        <option value="$PROJECT_DIR$/src/Lesson_5/DZ/ThreadMain.java" />
+        <option value="$PROJECT_DIR$/src/Lesson_6/MainServ.java" />
+        <option value="$PROJECT_DIR$/src/Lesson_6/server/ServerStart.java" />
+        <option value="$PROJECT_DIR$/src/Lesson_6/DZ/ServerMain.java" />
+        <option value="$PROJECT_DIR$/src/Lesson_6/DZ/ClientMain.java" />
+        <option value="$PROJECT_DIR$/src/Lesson_6/client/Main.java" />
+        <option value="$PROJECT_DIR$/src/Lesson_6/client/sample.fxml" />
+        <option value="$PROJECT_DIR$/src/Lesson_6/client/Controller.java" />
+        <option value="$PROJECT_DIR$/src/Lesson_6/server/MainServ.java" />
+        <option value="$PROJECT_DIR$/src/Lesson_6/server/AuthService.java" />
+        <option value="$PROJECT_DIR$/src/Lesson_6/server/ClientHandler.java" />
+        <option value="$PROJECT_DIR$/src/Lesson_7/server/ClientHandler.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="55" />
+    <option name="width" value="1396" />
+    <option name="height" value="983" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>AOP</id>
+          </State>
+          <State>
+            <id>Abstraction issuesJava</id>
+          </State>
+          <State>
+            <id>Android &gt; Lint &gt; Correctness</id>
+          </State>
+          <State>
+            <id>Android &gt; Lint &gt; Correctness &gt; Messages</id>
+          </State>
+          <State>
+            <id>Android &gt; Lint &gt; Performance</id>
+          </State>
+          <State>
+            <id>Android &gt; Lint &gt; Security</id>
+          </State>
+          <State>
+            <id>Android &gt; Lint &gt; Usability &gt; Icons</id>
+          </State>
+          <State>
+            <id>Android Lint for Kotlin</id>
+          </State>
+          <State>
+            <id>Assignment issuesGroovy</id>
+          </State>
+          <State>
+            <id>Assignment issuesJava</id>
+          </State>
+          <State>
+            <id>Assignment issuesJavaScript</id>
+          </State>
+          <State>
+            <id>CDI(Contexts and Dependency Injection) issues</id>
+          </State>
+          <State>
+            <id>CSS</id>
+          </State>
+          <State>
+            <id>Class structureJava</id>
+          </State>
+          <State>
+            <id>Code style issuesJava</id>
+          </State>
+          <State>
+            <id>CoffeeScript</id>
+          </State>
+          <State>
+            <id>Control flow issuesGroovy</id>
+          </State>
+          <State>
+            <id>Control flow issuesJava</id>
+          </State>
+          <State>
+            <id>Data flow issuesGroovy</id>
+          </State>
+          <State>
+            <id>Data flow issuesJava</id>
+          </State>
+          <State>
+            <id>Data flow issuesJavaScript</id>
+          </State>
+          <State>
+            <id>Declaration redundancyJava</id>
+          </State>
+          <State>
+            <id>Encapsulation issuesJava</id>
+          </State>
+          <State>
+            <id>Error handlingGroovy</id>
+          </State>
+          <State>
+            <id>Error handlingJava</id>
+          </State>
+          <State>
+            <id>Error handlingJavaScript</id>
+          </State>
+          <State>
+            <id>FlexUnit inspections</id>
+          </State>
+          <State>
+            <id>FreeMarker inspections</id>
+          </State>
+          <State>
+            <id>General</id>
+          </State>
+          <State>
+            <id>GeneralCoffeeScript</id>
+          </State>
+          <State>
+            <id>GeneralJavaScript</id>
+          </State>
+          <State>
+            <id>Google Web Toolkit issues</id>
+          </State>
+          <State>
+            <id>Groovy</id>
+          </State>
+          <State>
+            <id>Guice Inspections</id>
+          </State>
+          <State>
+            <id>Inheritance issuesJava</id>
+          </State>
+          <State>
+            <id>Initialization issuesJava</id>
+          </State>
+          <State>
+            <id>Internationalization issuesJava</id>
+          </State>
+          <State>
+            <id>Invalid elementsCSS</id>
+          </State>
+          <State>
+            <id>J2ME issuesJava</id>
+          </State>
+          <State>
+            <id>JBoss Seam issues</id>
+          </State>
+          <State>
+            <id>JPA issues</id>
+          </State>
+          <State>
+            <id>JUnit issuesJava</id>
+          </State>
+          <State>
+            <id>Java</id>
+          </State>
+          <State>
+            <id>Java 5Java language level migration aidsJava</id>
+          </State>
+          <State>
+            <id>Java 7Java language level migration aidsJava</id>
+          </State>
+          <State>
+            <id>Java 8Java language level migration aidsJava</id>
+          </State>
+          <State>
+            <id>Java EE issues</id>
+          </State>
+          <State>
+            <id>Java language level issuesJava</id>
+          </State>
+          <State>
+            <id>Java language level migration aidsJava</id>
+          </State>
+          <State>
+            <id>JavaScript</id>
+          </State>
+          <State>
+            <id>JavaScript function metricsJavaScript</id>
+          </State>
+          <State>
+            <id>Kotlin</id>
+          </State>
+          <State>
+            <id>Kotlin Android</id>
+          </State>
+          <State>
+            <id>Logging issuesJava</id>
+          </State>
+          <State>
+            <id>Method metricsGroovy</id>
+          </State>
+          <State>
+            <id>Method metricsJava</id>
+          </State>
+          <State>
+            <id>Naming conventionsGroovy</id>
+          </State>
+          <State>
+            <id>Naming conventionsJava</id>
+          </State>
+          <State>
+            <id>Naming conventionsJavaScript</id>
+          </State>
+          <State>
+            <id>Pattern Validation</id>
+          </State>
+          <State>
+            <id>Performance issuesJava</id>
+          </State>
+          <State>
+            <id>Portability issuesJava</id>
+          </State>
+          <State>
+            <id>Probable bugsJava</id>
+          </State>
+          <State>
+            <id>Properties Files</id>
+          </State>
+          <State>
+            <id>Properties FilesJava</id>
+          </State>
+          <State>
+            <id>RESTful Web Service</id>
+          </State>
+          <State>
+            <id>Redundant constructsKotlin</id>
+          </State>
+          <State>
+            <id>SQL</id>
+          </State>
+          <State>
+            <id>Serialization issuesJava</id>
+          </State>
+          <State>
+            <id>Spring</id>
+          </State>
+          <State>
+            <id>Spring DataSpring</id>
+          </State>
+          <State>
+            <id>Struts</id>
+          </State>
+          <State>
+            <id>Struts 1Struts</id>
+          </State>
+          <State>
+            <id>Struts 2Struts</id>
+          </State>
+          <State>
+            <id>Style issuesKotlin</id>
+          </State>
+          <State>
+            <id>Threading issuesJava</id>
+          </State>
+          <State>
+            <id>TypeScript</id>
+          </State>
+          <State>
+            <id>Verbose or redundant code constructsJava</id>
+          </State>
+          <State>
+            <id>Visibility issuesJava</id>
+          </State>
+          <State>
+            <id>Web Services</id>
+          </State>
+          <State>
+            <id>WebSocket issues</id>
+          </State>
+          <State>
+            <id>XSLT</id>
+          </State>
+        </expanded-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="java_2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SerVer-Client" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java_2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SerVer-Client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java_2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SerVer-Client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Lesson_7" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java_2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SerVer-Client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Lesson_7" type="462c0819:PsiDirectoryNode" />
+              <item name="client" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java_2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SerVer-Client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Lesson_7" type="462c0819:PsiDirectoryNode" />
+              <item name="server" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\java_2\13112019\src\Lesson_1\Game" />
+      <recent name="C:\java_2\13112019\src\Lesson_1" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\java_2\13112019\src\Lesson_6\client" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration default="true" type="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ClientMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson_6.DZ.ClientMain" />
+      <module name="java_2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lesson_6.DZ.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" singleton="false" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson_7.client.Main" />
+      <module name="java_2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lesson_7.client.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainServ" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson_7.server.MainServ" />
+      <module name="java_2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lesson_7.server.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServerMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson_6.DZ.ServerMain" />
+      <module name="java_2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lesson_6.DZ.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServerStart" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson_7.server.ServerStart" />
+      <module name="java_2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lesson_7.server.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.ClientMain" />
+      <item itemvalue="Application.MainServ" />
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.ServerMain" />
+      <item itemvalue="Application.ServerStart" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.ServerStart" />
+        <item itemvalue="Application.ClientMain" />
+        <item itemvalue="Application.ServerMain" />
+        <item itemvalue="Application.MainServ" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b58482f2-54fb-4424-8b0c-c6d9db5c9e2d" name="Default" comment="" />
+      <created>1573659237866</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1573659237866</updated>
+      <workItem from="1573659240926" duration="9124000" />
+      <workItem from="1573740361639" duration="1010000" />
+      <workItem from="1574005049093" duration="9000000" />
+      <workItem from="1574087955555" duration="1028000" />
+      <workItem from="1574262930572" duration="9651000" />
+      <workItem from="1574346689259" duration="2668000" />
+      <workItem from="1574519624823" duration="758000" />
+      <workItem from="1574609280068" duration="7670000" />
+      <workItem from="1574869949173" duration="9116000" />
+      <workItem from="1574950536937" duration="562000" />
+      <workItem from="1574951219038" duration="468000" />
+      <workItem from="1575214159168" duration="8151000" />
+      <workItem from="1575294423734" duration="951000" />
+      <workItem from="1575473937583" duration="7578000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="67735000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19364598" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.28437132" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.30612245" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="CheckStyle" order="7" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
+      <window_info anchor="right" id="Maven" order="9" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Lesson_7/server/AuthService.java</url>
+          <line>36</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Lesson_7/client/Main.java</url>
+          <line>9</line>
+          <properties />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/Lesson_1/Marathon/Competitor/Dog.java" />
+    <entry file="file://$PROJECT_DIR$/src/Lesson_1/Marathon/Obstacle/Course.java" />
+    <entry file="file://$PROJECT_DIR$/src/Lesson_1/Marathon/Competitor/Team.java" />
+    <entry file="file://$PROJECT_DIR$/src/Lesson_1/Test.java" />
+    <entry file="file://$PROJECT_DIR$/src/Lesson_1/Marathon/Obstacle/Obstacle.java" />
+    <entry file="file://$PROJECT_DIR$/src/Lesson_1/Marathon/Main.java" />
+    <entry file="file://$PROJECT_DIR$/src/lesson_2/Fruit.java" />
+    <entry file="file://$PROJECT_DIR$/src/lesson_2/Outer.java" />
+    <entry file="jar://E:/Program Files/Java/jdk1.8.0_161/src.zip!/java/io/Closeable.java" />
+    <entry file="jar://E:/Program Files/Java/jdk1.8.0_161/src.zip!/java/io/InputStream.java" />
+    <entry file="jar://E:/Program Files/Java/jdk1.8.0_161/src.zip!/java/io/FileInputStream.java" />
+    <entry file="file://$PROJECT_DIR$/src/lesson_2/MainEx.java" />
+    <entry file="jar://E:/Program Files/Java/jdk1.8.0_161/src.zip!/java/lang/Exception.java" />
+    <entry file="file://$PROJECT_DIR$/src/lesson_2/FactorialException.java" />
+    <entry file="file://$PROJECT_DIR$/src/lesson_2/Test.java" />
+    <entry file="file://$PROJECT_DIR$/src/lesson_2/DZ/MainClass.java" />
+    <entry file="file://$PROJECT_DIR$/src/lesson_2/DZ/MainClassEnum.java" />
+    <entry file="jar://E:/Program Files/Java/jdk1.8.0_161/src.zip!/java/util/Set.java" />
+    <entry file="file://$PROJECT_DIR$/src/Lesson_3/MainColl.java" />
+    <entry file="jar://E:/Program Files/Java/jdk1.8.0_161/src.zip!/java/util/Comparator.java" />
+    <entry file="jar://E:/Program Files/Java/jdk1.8.0_161/src.zip!/java/util/TreeSet.java" />
+    <entry file="file://$PROJECT_DIR$/src/Lesson_3/MyCompUserDefine.java" />
+    <entry file="file://$PROJECT_DIR$/src/Lesson_1/Game/Hero.java" />
+    <entry file="file://$PROJECT_DIR$/src/Lesson_3/DZ/MainClass.java" />
+    <entry file="jar://E:/Program Files/Java/jdk1.8.0_161/src.zip!/java/awt/event/ActionListener.java" />
+    <entry file="file://$PROJECT_DIR$/src/Lesson_4/MainWindow.java" />
+    <entry file="file://$PROJECT_DIR$/src/Lesson_4/MainRex.java" />
+    <entry file="file://$PROJECT_DIR$/src/Lesson_4/DZ/PasswordVar.java" />
+    <entry file="jar://E:/Program Files/Java/jdk1.8.0_161/src.zip!/java/lang/CharSequence.java" />
+    <entry file="jar://E:/Program Files/Java/jdk1.8.0_161/src.zip!/java/util/regex/Pattern.java" />
+    <entry file="file://$PROJECT_DIR$/src/Lesson_4/DZ/Password.java" />
+    <entry file="jar://E:/Program Files/Java/jdk1.8.0_161/src.zip!/java/lang/Thread.java" />
+    <entry file="file://$PROJECT_DIR$/src/Lesson_5/MainClassThread.java" />
+    <entry file="file://$PROJECT_DIR$/src/Lesson_5/Box.java" />
+    <entry file="file://$PROJECT_DIR$/src/Lesson_5/ATM.java" />
+    <entry file="file://$PROJECT_DIR$/src/Lesson_5/DeamoThread.java" />
+    <entry file="file://$PROJECT_DIR$/src/Lesson_5/Counter.java" />
+    <entry file="jar://E:/Program Files/Java/jdk1.8.0_161/src.zip!/java/util/Arrays.java" />
+    <entry file="jar://E:/Program Files/Java/jdk1.8.0_161/javafx-src.zip!/javafx/fxml/Initializable.java" />
+    <entry file="jar://E:/Program Files/Java/jdk1.8.0_161/src.zip!/java/util/Vector.java" />
+    <entry file="file://$PROJECT_DIR$/src/Lesson_6/DZ/ServerMain.java" />
+    <entry file="file://$PROJECT_DIR$/src/Lesson_6/DZ/ClientMain.java" />
+    <entry file="file://$PROJECT_DIR$/src/Lesson_5/DZ/ThreadMain.java" />
+    <entry file="file://$PROJECT_DIR$/src/Lesson_7/client/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="17" column="8" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lesson_7/server/AuthService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="884">
+          <caret line="52" selection-start-line="52" selection-end-line="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lesson_7/client/sample.fxml">
+      <provider editor-type-id="JavaFX-Scene-Builder" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="43" selection-start-line="7" selection-start-column="43" selection-end-line="7" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lesson_7/server/MainServ.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="867">
+          <caret line="55" column="34" selection-start-line="55" selection-start-column="34" selection-end-line="55" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1868#1869#0" expanded="true" />
+            <element signature="e#1908#1909#0" expanded="true" />
+            <element signature="e#1987#1988#0" expanded="true" />
+            <element signature="e#2030#2031#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lesson_7/server/ClientHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="782">
+          <caret line="51" column="19" selection-start-line="51" selection-start-column="19" selection-end-line="51" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-9.0.4/lib/src.zip!/java.base/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24055">
+          <caret line="1479" column="19" selection-start-line="1479" selection-start-column="19" selection-end-line="1479" selection-end-column="19" />
+          <folding>
+            <element signature="e#58811#58812#0" expanded="true" />
+            <element signature="e#58855#58856#0" expanded="true" />
+            <element signature="e#94323#94324#0" expanded="true" />
+            <element signature="e#94361#94362#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lesson_7/server/ServerStart.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding>
+            <element signature="e#96#97#0" expanded="true" />
+            <element signature="e#126#127#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lesson_7/client/Controller.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>9</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>java_2</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>sqlite-jdbc-3.21.0.1</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
